@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.633,=C:\Users\mesh-\Documents\Embarcadero\Studio\Projekte\GroupedItems1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.182,=C:\Users\mesh-\Documents\Embarcadero\Studio\Projekte\ItemDetail1.pas</Transaction>
+    <Transaction>2017.04.24 21:34:35.414,=C:\Users\mesh-\Documents\Embarcadero\Studio\Projekte\Unit1.pas</Transaction>
+    <Transaction>2017.04.24 21:52:36.394,C:\Users\mesh-\Documents\Embarcadero\Studio\Projekte\Project1.dproj=C:\Users\mesh-\Documents\Embarcadero\Studio\Projekte\Project1.dproj</Transaction>
+    <Transaction>2017.04.24 23:15:05.848,C:\Users\mesh-\Documents\Embarcadero\Studio\Projekte\Lampe\Lampe.dproj=C:\Users\mesh-\Documents\Embarcadero\Studio\Projekte\Project1.dproj</Transaction>
+    <Transaction>2017.04.24 23:15:56.446,C:\Users\mesh-\Documents\Embarcadero\Studio\Projekte\Project1.dproj=C:\Users\mesh-\Documents\Embarcadero\Studio\Projekte\Lampe\Lampe.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
